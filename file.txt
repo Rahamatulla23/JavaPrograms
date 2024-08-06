@@ -1,7 +1,9 @@
 class Sample
 {
-public static void main(String agrs[]){
+public static void main(String agrs[])
+{
 System.out.println("HELLO WORLD");
 System.out.println("Rahamath");
+System.out.println("Ndl");
 }
 }
